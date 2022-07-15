@@ -1,1 +1,2 @@
 this is my first repository
+this is 2nd chng to master file
